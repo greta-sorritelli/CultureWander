@@ -1,9 +1,9 @@
 const cacheName = "Greta Sorritelli-CultureWander-0.1";
 const contentToCache = [
-    "Build/Culture Wander Builds.loader.js",
-    "Build/Culture Wander Builds.framework.js",
-    "Build/Culture Wander Builds.data",
-    "Build/Culture Wander Builds.wasm",
+    "Build/CultureWanderWebPage.loader.js",
+    "Build/CultureWanderWebPage.framework.js.unityweb",
+    "Build/CultureWanderWebPage.data.unityweb",
+    "Build/CultureWanderWebPage.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
